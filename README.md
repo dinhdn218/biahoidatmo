@@ -44,6 +44,7 @@ Không dùng framework hay bước build. Chỉ có HTML, CSS và JavaScript thu
 
 ```
 index.html            Nội dung trang
+favicon.ico           Biểu tượng tab (16, 32, 48 px), cắt từ huy hiệu trong logo
 assets/css/style.css  Giao diện, màu sắc (token ở :root), animation
 assets/js/main.js     Dữ liệu thực đơn, phiếu gọi món, đặt bàn, ship, sáng/tối
 assets/img/           Logo, favicon, ảnh món và ảnh không gian
